@@ -1,0 +1,14 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "/workspaces/shucker-mod/build/classes/java/test",
+      "/workspaces/shucker-mod/build/resources/test"
+    ],
+    "main": [
+      "/workspaces/shucker-mod/build/classes/java/main",
+      "/workspaces/shucker-mod/build/resources/main",
+      "/workspaces/shucker-mod/build/devlibs/shulker-finder-1.0.0-dev.jar"
+    ]
+  }
+}
